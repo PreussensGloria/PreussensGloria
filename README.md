@@ -1,4 +1,9 @@
 <div align="center">
+<img src="https://files.catbox.moe/85rq9q.png" width=850>
+
+
+
+<div align="center">
 
 [![Hits](https://hits.sh/github.com/PreussensGloria.svg?label=Confederation+of+the+Undead.&color=564D4A&labelColor=BA1B1D)](https://hits.sh/github.com/PreussensGloria/)
 
@@ -22,3 +27,7 @@ Also, yes. I changed my username. Couldn't risk getting slimed.
 <img align="left" width="450"
 src="https://files.catbox.moe/xtsb58.png">
 
+
+
+<div align="center">
+<img src="https://files.catbox.moe/st6wb6.png" width=850>
