@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/PreussensGloria.svg?label=Confederation+of+the+Undead.&color=495589&labelColor=7087BB)](https://hits.sh/github.com/PreussensGloria/)
+[![Hits](https://hits.sh/github.com/PreussensGloria.svg?label=Confederation+of+the+Undead.&color=564D4A&labelColor=BA1B1D)](https://hits.sh/github.com/PreussensGloria/)
 
 
 <img align="center">
@@ -9,7 +9,7 @@
 
 <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&letterSpacing=double+space&duration=4000&pause=400&color=82A3D7&center=true&vCenter=true&width=650&height=52&lines="Herr+Feldmarschall?")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&letterSpacing=double+space&duration=4000&pause=400&color=B90E0A&center=true&vCenter=true&width=650&height=52&lines="Herr+Feldmarschall?")](https://git.io/typing-svg)
 </div>
 
 
@@ -19,4 +19,6 @@ Also, yes. I changed my username. Couldn't risk getting slimed.
 
 
 
-<img src="https://files.catbox.moe/xtsb58.png">
+<img align="left" width="450"
+src="https://files.catbox.moe/xtsb58.png">
+
