@@ -16,3 +16,7 @@
 Huge wip.
 
 Also, yes. I changed my username. Couldn't risk getting slimed.
+
+
+
+<img src="https://files.catbox.moe/xtsb58.png">
