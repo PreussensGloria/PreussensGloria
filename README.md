@@ -8,6 +8,8 @@
 [![Hits](https://hits.sh/github.com/PreussensGloria.svg?label=Confederation+of+the+Undead.&color=564D4A&labelColor=BA1B1D)](https://hits.sh/github.com/PreussensGloria/)
 
 
+<p align="left">
+$\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
 <img align="center">
 <img src="https://files.catbox.moe/ugr69e.png">
 
