@@ -10,7 +10,8 @@
 
 <p align="left">
 $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
-<img align="center">
+   
+<div align="center">
 <img src="https://files.catbox.moe/ugr69e.png">
 
 
@@ -26,8 +27,33 @@ Also, yes. I changed my username. Couldn't risk getting slimed.
 
 
 
+
+<details closed>
+  <summary>$\color{#AD6D15}{Random\ stuff.}$</summary>
+
+Random shits I did.
+
+<img src="https://github.com/user-attachments/assets/487eae35-2930-439a-b858-cca80f2df6d5" width=400 >
+
+<img src="https://github.com/user-attachments/assets/5468d2ff-b913-49fd-bf9c-e77595cfed79" width=400 >
+
+<img src="https://github.com/user-attachments/assets/caeae57e-9307-4576-9f3e-d5807862445d" width=400>
+
+<img src="https://github.com/user-attachments/assets/ca50bb8d-c5e1-4e76-9b9a-0b838a51254a" width=400>
+
+
+
+
+</details>
+
+
+
+
 <img align="left" width="450"
 src="https://files.catbox.moe/xtsb58.png">
+
+
+
 
 
 
