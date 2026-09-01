@@ -33,13 +33,40 @@ Also, yes. I changed my username. Couldn't risk getting slimed.
 
 Random shits I did.
 
-<img src="https://github.com/user-attachments/assets/487eae35-2930-439a-b858-cca80f2df6d5" width=400 >
+<img src="https://github.com/user-attachments/assets/487eae35-2930-439a-b858-cca80f2df6d5" width=300 >
 
-<img src="https://github.com/user-attachments/assets/5468d2ff-b913-49fd-bf9c-e77595cfed79" width=400 >
 
-<img src="https://github.com/user-attachments/assets/caeae57e-9307-4576-9f3e-d5807862445d" width=400>
+<img src="https://github.com/user-attachments/assets/5468d2ff-b913-49fd-bf9c-e77595cfed79" width=300 >
 
-<img src="https://github.com/user-attachments/assets/ca50bb8d-c5e1-4e76-9b9a-0b838a51254a" width=400>
+
+<img src="https://github.com/user-attachments/assets/caeae57e-9307-4576-9f3e-d5807862445d" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/ca50bb8d-c5e1-4e76-9b9a-0b838a51254a" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/47536f3c-d004-46fb-b9cf-86ff19855c75" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/2fd74691-4a14-487c-bed1-1ed91dbb80d7" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/d620d959-6580-4793-83c7-c0a89c6586a6" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/d9e0e26c-53ef-42e8-a462-9d55e5957859" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/50b38825-7327-420f-9beb-84dce76ab8d6" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/7c7026fa-1cda-434a-ae5b-b6081980c9ea" width=300>
+
+
+
+
+<img src="https://github.com/user-attachments/assets/71500cd6-99e9-471a-8409-f8f3b9e474fc" width=300>
+Surgeon and priest against the world
 
 
 
