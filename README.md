@@ -63,6 +63,25 @@ Random shits I did.
 <img src="https://github.com/user-attachments/assets/7c7026fa-1cda-434a-ae5b-b6081980c9ea" width=300>
 
 
+<img src="https://files.catbox.moe/dq0ti3.webp" width=300>
+
+
+<img src="https://files.catbox.moe/a0snx4.webp" width=300>
+
+
+<img src="https://files.catbox.moe/ide426.webp" width=300>
+
+
+<img src="https://files.catbox.moe/vjq0ir.webp" width=300>
+
+
+<img src="https://files.catbox.moe/qxf6rj.webp" width=300>
+
+
+<img src="https://files.catbox.moe/l8fjjg.webp" width=300>
+
+
+
 
 
 <img src="https://github.com/user-attachments/assets/71500cd6-99e9-471a-8409-f8f3b9e474fc" width=300>
