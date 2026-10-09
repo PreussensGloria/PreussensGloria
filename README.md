@@ -81,6 +81,24 @@ Random shits I did.
 <img src="https://files.catbox.moe/l8fjjg.webp" width=300>
 
 
+<img src="https://github.com/user-attachments/assets/5ca787b3-840a-489e-8747-3d049c300fbd" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/606a003d-8859-4541-a5d4-0d16407508b8" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/3cb3482e-a0cd-461c-9e31-c5d51344ff6c" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/37784517-887e-4345-8e32-68e18b5d2ccf" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/f1af1c1d-41ed-4fed-b842-acbb0acb75cd" width=300>
+
+
+<img src="https://github.com/user-attachments/assets/2ca9abd1-3d8b-4927-809a-0644497da474" width=300>
+
+
 
 
 
