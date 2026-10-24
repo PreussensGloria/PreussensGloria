@@ -21,14 +21,14 @@ $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
 </div>
 
 
-Huge wip.
 
-Also, yes. I changed my username. Couldn't risk getting slimed.
+<img align="center">
+<img src="https://files.catbox.moe/8nqxne.png">
 
 
 
 <details closed>
-  <summary>$\color{#AD6D15}{Links.}$</summary>
+  <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Links\ ༝}$</summary>
 
 
 <p align="center">
@@ -40,7 +40,7 @@ Also, yes. I changed my username. Couldn't risk getting slimed.
 
 
 <details closed>
-  <summary>$\color{#AD6D15}{Random\ stuff.}$</summary>
+  <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Random\ stuff\ ༝}$</summary>
 
 Random shits I did.
 
