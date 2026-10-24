@@ -128,8 +128,8 @@ Surgeon and priest against the world
 <img src="https://files.catbox.moe/48288q.png">
 
 
-<p align="left">
-$\color{#B90E0A}{Art\ credit\ :\ sausagemaster0101\ and\ superalof\ on\ Pinterest}$
+<p align="center">
+$\color{#B90E0A}{Art\ credit\ :\ @sausagemaster0101\ and\ @superalof\ on\ Pinterest}$
 
 
 
