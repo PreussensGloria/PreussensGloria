@@ -45,17 +45,22 @@ $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
   <details closed>
   <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Ponytown\ ༝}$</summary>
 
+$\color{#f0e0a2}{\text{I mostly stay within the Roblox/TMC area, near spawn, or outside the bakery. Check}}$ <a href="https://files.catbox.moe/nee6ma.png">this<a/> $\color{#f0e0a2}{\text{out! I'm usually with my lad, Daniel.}}$
 
-$\color{#e9c56d}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
+
+$\color{#e9c56d}{\text{C+H always encouraged for everyone! Even when there's DNI in my name. I don't bite, mostly.}}$
 
 
 $\color{#d8a53a}{\text{Whisper to interact due to me rarely check on public chat unless one is talking right in front of me when I'm active.}}$
 
 
-$\color{#c67f23}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
+$\color{#c67f23}{\text{Do not copy my ponies without my permission. Use common sense, dumbass. Inspiration is alright.}}$
 
 
-$\color{#b3541e}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
+$\color{#b3541e}{\text{If I put 💤 on, it means that I will reply slower due to being afk or playing games.}}$
+
+
+$\color{#9d3a1b}{\text{Interact with me anytime! Though, please be patient if my response is slow. I won't accept sudden friend request.}}$
  
 
   </details>
