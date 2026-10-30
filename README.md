@@ -34,6 +34,17 @@ $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
   <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Links\ ༝}$</summary>
 
 
+<div align="center">
+   
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&letterSpacing=double+space&duration=2000&pause=200&color=c67f23&center=true&vCenter=true&width=650&height=52&lines="Du+und+Ich;Ich+hasse+dich%2C+Ich+liebe+dich.;Du+und+Ich;Ich+hasse+dich%2C+Ich+liebe+dich.")](https://git.io/typing-svg)
+</div>
+
+
+<img align="center">
+<img src="https://github.com/user-attachments/assets/381f3047-b64a-451e-aaff-2c9a9d53cfd6" >
+
+
+
 <p align="center">
   <a href="https://forlornhope.atabook.org/"><img src="https://files.catbox.moe/m7ruez.png" width="280" /></a> <a href="https://ethanhibiki.straw.page/"><img src="https://files.catbox.moe/aus0wg.png" width="280" /></a> <a href="https://guns.lol/prussian_officer"><img src="https://files.catbox.moe/e68ncc.png" width="280" /></a> <a href="https://rentry.co/Aero-Blast"><img src="https://files.catbox.moe/08h5vd.png" width="280" /></a>
  </p>
@@ -44,6 +55,17 @@ $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
 
   <details closed>
   <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Ponytown\ ༝}$</summary>
+
+
+<div align="center">
+   
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&letterSpacing=double+space&duration=3000&pause=400&color=b3541e&center=true&vCenter=true&width=650&height=52&lines="Sie+wird+heut+Nacht+nicht+untergeh'n.;Und+die+Welt+zählt+laut+bis+zehn.;Eins%2C+hier+kommt+die+Sonne.;Zwei%2C+hier+kommt+die+Sonne")](https://git.io/typing-svg)
+</div>
+
+
+<img align="center">
+<img src="https://github.com/user-attachments/assets/381f3047-b64a-451e-aaff-2c9a9d53cfd6" >
+  
 
 $\color{#f0e0a2}{\text{I mostly stay within the Roblox/TMC area, near spawn, or outside the bakery. Check}}$ <a href="https://files.catbox.moe/nee6ma.png">this<a/> $\color{#f0e0a2}{\text{out! I'm usually with my lad, Daniel.}}$
 
@@ -69,6 +91,17 @@ $\color{#9d3a1b}{\text{Interact with me anytime! Though, please be patient if my
 <details closed>
   <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Random\ stuff\ ༝}$</summary>
 
+
+<div align="center">
+   
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&letterSpacing=double+space&duration=2000&pause=400&color=9d3a1b&center=true&vCenter=true&width=650&height=52&lines="Lore%2C+Lore%2C+Lore%2C+Lore%2C;Schön+sind+die+Mädchen;Von+siebzehn%2C+achtzehn+Jahr'.;Lore%2C+Lore%2C+Lore%2C+Lore%2C;Schöne+Mädchen+gibt+es+überall.")](https://git.io/typing-svg)
+</div>
+
+
+<img align="center">
+<img src="https://github.com/user-attachments/assets/381f3047-b64a-451e-aaff-2c9a9d53cfd6" >
+
+  
 Random shits I did.
 
 <img src="https://github.com/user-attachments/assets/487eae35-2930-439a-b858-cca80f2df6d5" width=300 >
