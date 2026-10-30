@@ -46,8 +46,16 @@ $\color{#B90E0A}{Pfalzgrafenstein\ Castle,\ Kaub,\ Kingdom\ of\ Prussia}$
   <summary>$\color{#AD6D15}{ⵌ\ ◡◡\ Ponytown\ ༝}$</summary>
 
 
-$\color{#f4d578}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
-$\color{#f2b741}{\text{Whisper to interact due to me rarely check on public chat unless one is talking right in front of me when I'm active.}}$
+$\color{#e9c56d}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
+
+
+$\color{#d8a53a}{\text{Whisper to interact due to me rarely check on public chat unless one is talking right in front of me when I'm active.}}$
+
+
+$\color{#c67f23}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
+
+
+$\color{#b3541e}{\text{C+H always encouraged for everyone! I don't bite, mostly.}}$
  
 
   </details>
